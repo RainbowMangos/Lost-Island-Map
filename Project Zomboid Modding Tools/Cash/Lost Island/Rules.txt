@@ -1,0 +1,4037 @@
+version = 1
+
+alias
+{
+    name = Toxic_nw
+    tiles = [
+        blends_natural_05_24
+        blends_natural_05_25
+        blends_natural_05_26
+        blends_natural_05_27
+        blends_natural_05_28
+        blends_natural_05_29
+        blends_natural_05_30
+        blends_natural_05_31
+    ]
+}
+alias
+{
+    name = Toxic_ne
+    tiles = [
+        blends_natural_05_48
+        blends_natural_05_49
+        blends_natural_05_50
+        blends_natural_05_51
+        blends_natural_05_52
+        blends_natural_05_53
+        blends_natural_05_54
+        blends_natural_05_55
+    ]
+}
+alias
+{
+    name = Toxic_sw
+    tiles = [
+        blends_natural_05_40
+        blends_natural_05_41
+        blends_natural_05_42
+        blends_natural_05_43
+        blends_natural_05_44
+        blends_natural_05_45
+        blends_natural_05_46
+        blends_natural_05_47
+    ]
+}
+alias
+{
+    name = Toxic_se
+    tiles = [
+        blends_natural_05_32
+        blends_natural_05_33
+        blends_natural_05_34
+        blends_natural_05_35
+        blends_natural_05_36
+        blends_natural_05_37
+        blends_natural_05_38
+        blends_natural_05_39
+    ]
+}
+alias
+{
+    name = Toxic
+    tiles = [
+        blends_natural_05_56
+        blends_natural_05_57
+        blends_natural_05_58
+        blends_natural_05_59
+        blends_natural_05_60
+        blends_natural_05_61
+        blends_natural_05_62
+        blends_natural_05_63
+        blends_natural_05_64
+        blends_natural_05_65
+        blends_natural_05_66
+        blends_natural_05_67
+        blends_natural_05_68
+        blends_natural_05_69
+        blends_natural_05_70
+        blends_natural_05_71
+        blends_natural_05_72
+        blends_natural_05_73
+        blends_natural_05_74
+        blends_natural_05_75
+        blends_natural_05_76
+        blends_natural_05_77
+        blends_natural_05_78
+        blends_natural_05_79
+        blends_natural_05_80
+        blends_natural_05_81
+        blends_natural_05_82
+        blends_natural_05_83
+        blends_natural_05_84
+        blends_natural_05_85
+        blends_natural_05_86
+        blends_natural_05_87
+        blends_natural_05_88
+        blends_natural_05_89
+        blends_natural_05_90
+        blends_natural_05_91
+        blends_natural_05_92
+        blends_natural_05_93
+        blends_natural_05_94
+        blends_natural_05_95
+        blends_natural_05_96
+        blends_natural_05_97
+        blends_natural_05_98
+        blends_natural_05_99
+        blends_natural_05_100
+        blends_natural_05_101
+        blends_natural_05_102
+        blends_natural_05_103
+    ]
+}
+alias
+{
+    name = Toxic_n
+    tiles = [
+        blends_natural_05_08
+        blends_natural_05_12
+        blends_natural_05_16 
+        blends_natural_05_20
+    ]
+}
+alias
+{
+    name = Toxic_w
+    tiles = [
+        blends_natural_05_09 
+        blends_natural_05_13 
+        blends_natural_05_17 
+        blends_natural_05_21
+    ]
+}
+alias
+{
+    name = Toxic_e
+    tiles = [
+        blends_natural_05_10 
+        blends_natural_05_14 
+        blends_natural_05_18 
+        blends_natural_05_22
+    ]
+}
+alias
+{
+    name = Toxic_s
+    tiles = [
+        blends_natural_05_11 
+        blends_natural_05_15 
+        blends_natural_05_19 
+        blends_natural_05_23
+    ]
+}
+alias
+{
+    name = BeCurb
+    tiles = [
+        blends_street_BeDirt_112
+        blends_street_BeDirt_117
+        blends_street_BeDirt_118
+        blends_street_BeDirt_119
+    ]
+}
+alias
+{
+    name = BeStreet_Sand
+    tiles = [
+        blends_street_BeDirt_96
+        blends_street_BeDirt_101
+        blends_street_BeDirt_102
+        blends_street_BeDirt_103
+    ]
+}
+alias
+{
+    name = BeStreet_Sand_n
+    tiles = [
+        blends_street_BeDirt_104
+        blends_street_BeDirt_108
+    ]
+}
+alias
+{
+    name = BeStreet_Sand_w
+    tiles = [
+        blends_street_BeDirt_105
+        blends_street_BeDirt_109
+    ]
+}
+alias
+{
+    name = BeStreet_Sand_e
+    tiles = [
+        blends_street_BeDirt_106
+        blends_street_BeDirt_110
+    ]
+}
+alias
+{
+    name = BeStreet_Sand_s
+    tiles = [
+        blends_street_BeDirt_107
+        blends_street_BeDirt_111
+    ]
+}
+alias
+{
+    name = BeDirt_Lite
+    tiles = [
+        blends_street_BeDirt_0
+        blends_street_BeDirt_5
+        blends_street_BeDirt_6
+        blends_street_BeDirt_7
+    ]
+}
+alias
+{
+    name = BeDirt_Lite_n
+    tiles = [
+        blends_street_BeDirt_8
+        blends_street_BeDirt_12
+    ]
+}
+alias
+{
+    name = BeDirt_Lite_w
+    tiles = [
+        blends_street_BeDirt_9
+        blends_street_BeDirt_13
+    ]
+}
+alias
+{
+    name = BeDirt_Lite_e
+    tiles = [
+        blends_street_BeDirt_10
+        blends_street_BeDirt_14
+    ]
+}
+alias
+{
+    name = BeDirt_Lite_s
+    tiles = [
+        blends_street_BeDirt_11
+        blends_street_BeDirt_15
+    ]
+}
+alias
+{
+    name = BeDirt_Med
+    tiles = [
+        blends_street_BeDirt_16
+        blends_street_BeDirt_21
+        blends_street_BeDirt_22
+        blends_street_BeDirt_23
+    ]
+}
+alias
+{
+    name = BeDirt_Med_n
+    tiles = [
+        blends_street_BeDirt_24
+        blends_street_BeDirt_28
+    ]
+}
+alias
+{
+    name = BeDirt_Med_w
+    tiles = [
+        blends_street_BeDirt_25
+        blends_street_BeDirt_29
+    ]
+}
+alias
+{
+    name = BeDirt_Med_e
+    tiles = [
+        blends_street_BeDirt_26
+        blends_street_BeDirt_30
+    ]
+}
+alias
+{
+    name = BeDirt_Med_s
+    tiles = [
+        blends_street_BeDirt_27
+        blends_street_BeDirt_31
+    ]
+}
+alias
+{
+    name = BeDirt_Dark
+    tiles = [
+        blends_street_BeDirt_32
+        blends_street_BeDirt_37
+        blends_street_BeDirt_38
+        blends_street_BeDirt_39
+    ]
+}
+alias
+{
+    name = BeDirt_Dark_n
+    tiles = [
+        blends_street_BeDirt_40
+        blends_street_BeDirt_44
+    ]
+}
+alias
+{
+    name = BeDirt_Dark_w
+    tiles = [
+        blends_street_BeDirt_41
+        blends_street_BeDirt_45
+    ]
+}
+alias
+{
+    name = BeDirt_Dark_e
+    tiles = [
+        blends_street_BeDirt_42
+        blends_street_BeDirt_46
+    ]
+}
+alias
+{
+    name = BeDirt_Dark_s
+    tiles = [
+        blends_street_BeDirt_43
+        blends_street_BeDirt_47
+    ]
+}
+alias
+{
+    name = BeDirt
+    tiles = [
+        blends_street_BeDirt_48
+        blends_street_BeDirt_53
+        blends_street_BeDirt_54
+        blends_street_BeDirt_55
+    ]
+}
+alias
+{
+    name = BeDirt_n
+    tiles = [
+        blends_street_BeDirt_56
+        blends_street_BeDirt_60
+    ]
+}
+alias
+{
+    name = BeDirt_w
+    tiles = [
+        blends_street_BeDirt_57
+        blends_street_BeDirt_61
+    ]
+}
+alias
+{
+    name = BeDirt_e
+    tiles = [
+        blends_street_BeDirt_58
+        blends_street_BeDirt_62
+    ]
+}
+alias
+{
+    name = BeDirt_s
+    tiles = [
+        blends_street_BeDirt_59
+        blends_street_BeDirt_63
+    ]
+}
+
+alias
+{
+    name = BeSand_Dark
+    tiles = [
+        BeSand_32
+        BeSand_37
+        BeSand_38
+        BeSand_39
+    ]
+}
+alias
+{
+    name = BeSand_Dark_n
+    tiles = [
+        BeSand_40
+        BeSand_44
+    ]
+}
+alias
+{
+    name = BeSand_Dark_w
+    tiles = [
+        BeSand_41
+        BeSand_45
+    ]
+}
+alias
+{
+    name = BeSand_Dark_e
+    tiles = [
+        BeSand_42
+        BeSand_46
+    ]
+}
+alias
+{
+    name = BeSand_Dark_s
+    tiles = [
+        BeSand_43
+        BeSand_47
+    ]
+}
+
+alias
+{
+    name = BeSand_Med
+    tiles = [
+        BeSand_16
+        BeSand_21
+        BeSand_22
+        BeSand_23
+    ]
+}
+alias
+{
+    name = BeSand_Med_n
+    tiles = [
+        BeSand_24
+        BeSand_28
+    ]
+}
+alias
+{
+    name = BeSand_Med_w
+    tiles = [
+        BeSand_25
+        BeSand_29
+    ]
+}
+alias
+{
+    name = BeSand_Med_e
+    tiles = [
+        BeSand_26
+        BeSand_30
+    ]
+}
+alias
+{
+    name = BeSand_Med_s
+    tiles = [
+        BeSand_27
+        BeSand_31
+    ]
+}
+alias
+{
+    name = BeSand_Lite
+    tiles = [
+        BeSand_0
+        BeSand_5
+        BeSand_6
+        BeSand_7
+    ]
+}
+alias
+{
+    name = BeSand_Lite_n
+    tiles = [
+        BeSand_8
+        BeSand_12
+    ]
+}
+alias
+{
+    name = BeSand_Lite_w
+    tiles = [
+        BeSand_9
+        BeSand_13
+    ]
+}
+alias
+{
+    name = BeSand_Lite_e
+    tiles = [
+        BeSand_10
+        BeSand_14
+    ]
+}
+alias
+{
+    name = BeSand_Lite_s
+    tiles = [
+        BeSand_11
+        BeSand_15
+    ]
+}
+alias
+{
+    name = BeRock_Floor
+    tiles = [
+        BeRockFloor_0
+        BeRockFloor_5
+        BeRockFloor_6
+        BeRockFloor_7
+    ]
+}
+alias
+{
+    name = BeRock_Floor_n
+    tiles = [
+        BeRockFloor_8
+        BeRockFloor_12
+    ]
+}
+alias
+{
+    name = BeRock_Floor_w
+    tiles = [
+        BeRockFloor_9
+        BeRockFloor_13
+    ]
+}
+alias
+{
+    name = BeRock_Floor_e
+    tiles = [
+        BeRockFloor_10
+        BeRockFloor_14
+    ]
+}
+alias
+{
+    name = BeRock_Floor_s
+    tiles = [
+        BeRockFloor_11
+        BeRockFloor_15
+    ]
+}
+alias
+{
+    name = desert_lightgrass_n
+    tiles = [
+        aza_desert_blends_natural_01_56
+        aza_desert_blends_natural_01_60
+    ]
+}
+alias
+{
+    name = desert_lightgrass_w
+    tiles = [
+        aza_desert_blends_natural_01_57
+        aza_desert_blends_natural_01_61
+    ]
+}
+alias
+{
+    name = desert_lightgrass_e
+    tiles = [
+        aza_desert_blends_natural_01_58
+        aza_desert_blends_natural_01_62
+    ]
+}
+alias
+{
+    name = desert_lightgrass_s
+    tiles = [
+        aza_desert_blends_natural_01_59
+        aza_desert_blends_natural_01_63
+    ]
+}
+alias
+{
+    name = desert_medgrass_n
+    tiles = [
+        aza_desert_blends_natural_01_40
+        aza_desert_blends_natural_01_44
+    ]
+}
+alias
+{
+    name = desert_medgrass_w
+    tiles = [
+        aza_desert_blends_natural_01_41
+        aza_desert_blends_natural_01_45
+    ]
+}
+alias
+{
+    name = desert_medgrass_e
+    tiles = [
+        aza_desert_blends_natural_01_42
+        aza_desert_blends_natural_01_46
+    ]
+}
+alias
+{
+    name = desert_medgrass_s
+    tiles = [
+        aza_desert_blends_natural_01_43
+        aza_desert_blends_natural_01_47
+    ]
+}
+alias
+{
+    name = desert_darkgrass_n
+    tiles = [
+        aza_desert_blends_natural_01_24
+        aza_desert_blends_natural_01_28
+    ]
+}
+alias
+{
+    name = desert_darkgrass_w
+    tiles = [
+        aza_desert_blends_natural_01_25
+        aza_desert_blends_natural_01_29
+    ]
+}
+alias
+{
+    name = desert_darkgrass_e
+    tiles = [
+        aza_desert_blends_natural_01_26
+        aza_desert_blends_natural_01_30
+    ]
+}
+alias
+{
+    name = desert_darkgrass_s
+    tiles = [
+        aza_desert_blends_natural_01_27
+        aza_desert_blends_natural_01_31
+    ]
+}
+alias
+{
+    name = desert_sand_n
+    tiles = [
+        aza_desert_blends_natural_01_8
+        aza_desert_blends_natural_01_12
+    ]
+}
+alias
+{
+    name = desert_sand_w
+    tiles = [
+        aza_desert_blends_natural_01_9
+        aza_desert_blends_natural_01_13
+    ]
+}
+alias
+{
+    name = desert_sand_e
+    tiles = [
+        aza_desert_blends_natural_01_10
+        aza_desert_blends_natural_01_14
+    ]
+}
+alias
+{
+    name = desert_sand_s
+    tiles = [
+        aza_desert_blends_natural_01_11
+        aza_desert_blends_natural_01_15
+    ]
+}
+alias
+{
+    name = desert_dirt
+    tiles = [
+        aza_desert_blends_natural_01_64
+        aza_desert_blends_natural_01_69
+        aza_desert_blends_natural_01_70
+        aza_desert_blends_natural_01_71
+    ]
+}
+alias
+{
+    name = desert_sand
+    tiles = [
+        aza_desert_blends_natural_01_0
+        aza_desert_blends_natural_01_5
+        aza_desert_blends_natural_01_6
+        aza_desert_blends_natural_01_7
+    ]
+}
+alias
+{
+    name = desert_sandblends
+    tiles = [
+        aza_desert_blends_natural_01_8
+        aza_desert_blends_natural_01_9
+        aza_desert_blends_natural_01_10
+        aza_desert_blends_natural_01_11
+        aza_desert_blends_natural_01_1
+        aza_desert_blends_natural_01_4
+        aza_desert_blends_natural_01_3
+        aza_desert_blends_natural_01_2
+    ]
+}
+alias
+{
+    name = desert_darkgrassblends
+    tiles = [
+        aza_desert_blends_natural_01_24
+        aza_desert_blends_natural_01_25
+        aza_desert_blends_natural_01_26
+        aza_desert_blends_natural_01_27
+        aza_desert_blends_natural_01_17
+        aza_desert_blends_natural_01_20
+        aza_desert_blends_natural_01_19
+        aza_desert_blends_natural_01_18
+    ]
+}
+alias
+{
+    name = desert_medgrassblends
+    tiles = [
+        aza_desert_blends_natural_01_40
+        aza_desert_blends_natural_01_41
+        aza_desert_blends_natural_01_42
+        aza_desert_blends_natural_01_43
+        aza_desert_blends_natural_01_33
+        aza_desert_blends_natural_01_36
+        aza_desert_blends_natural_01_35
+        aza_desert_blends_natural_01_34
+    ]
+}
+alias
+{
+    name = desert_lightgrassblends
+    tiles = [
+        aza_desert_blends_natural_01_56
+        aza_desert_blends_natural_01_57
+        aza_desert_blends_natural_01_58
+        aza_desert_blends_natural_01_59
+        aza_desert_blends_natural_01_49
+        aza_desert_blends_natural_01_52
+        aza_desert_blends_natural_01_51
+        aza_desert_blends_natural_01_59
+    ]
+}
+alias
+{
+    name = desert_darkgrass
+    tiles = [
+        aza_desert_blends_natural_01_16
+        aza_desert_blends_natural_01_21
+        aza_desert_blends_natural_01_22
+        aza_desert_blends_natural_01_23
+    ]
+}
+alias
+{
+    name = desert_medgrass
+    tiles = [
+        aza_desert_blends_natural_01_32
+        aza_desert_blends_natural_01_37
+        aza_desert_blends_natural_01_38
+        aza_desert_blends_natural_01_39
+    ]
+}
+alias
+{
+    name = desert_lightgrass
+    tiles = [
+        aza_desert_blends_natural_01_48
+        aza_desert_blends_natural_01_53
+        aza_desert_blends_natural_01_54
+        aza_desert_blends_natural_01_55
+    ]
+}
+alias
+{
+    name = lightgrass_n
+    tiles = [
+        blends_natural_01_56
+        blends_natural_01_60
+    ]
+}
+alias
+{
+    name = lightgrass_w
+    tiles = [
+        blends_natural_01_57
+        blends_natural_01_61
+    ]
+}
+alias
+{
+    name = lightgrass_e
+    tiles = [
+        blends_natural_01_58
+        blends_natural_01_62
+    ]
+}
+alias
+{
+    name = lightgrass_s
+    tiles = [
+        blends_natural_01_59
+        blends_natural_01_63
+    ]
+}
+alias
+{
+    name = medgrass_n
+    tiles = [
+        blends_natural_01_40
+        blends_natural_01_44
+    ]
+}
+alias
+{
+    name = medgrass_w
+    tiles = [
+        blends_natural_01_41
+        blends_natural_01_45
+    ]
+}
+alias
+{
+    name = medgrass_e
+    tiles = [
+        blends_natural_01_42
+        blends_natural_01_46
+    ]
+}
+alias
+{
+    name = medgrass_s
+    tiles = [
+        blends_natural_01_43
+        blends_natural_01_47
+    ]
+}
+alias
+{
+    name = darkgrass_n
+    tiles = [
+        blends_natural_01_24
+        blends_natural_01_28
+    ]
+}
+alias
+{
+    name = darkgrass_w
+    tiles = [
+        blends_natural_01_25
+        blends_natural_01_29
+    ]
+}
+alias
+{
+    name = darkgrass_e
+    tiles = [
+        blends_natural_01_26
+        blends_natural_01_30
+    ]
+}
+alias
+{
+    name = darkgrass_s
+    tiles = [
+        blends_natural_01_27
+        blends_natural_01_31
+    ]
+}
+alias
+{
+    name = sand_n
+    tiles = [
+        blends_natural_01_8
+        blends_natural_01_12
+    ]
+}
+alias
+{
+    name = sand_w
+    tiles = [
+        blends_natural_01_9
+        blends_natural_01_13
+    ]
+}
+alias
+{
+    name = sand_e
+    tiles = [
+        blends_natural_01_10
+        blends_natural_01_14
+    ]
+}
+alias
+{
+    name = sand_s
+    tiles = [
+        blends_natural_01_11
+        blends_natural_01_15
+    ]
+}
+alias
+{
+    name = medlonggrass
+    tiles = [
+        blends_grassoverlays_01_24
+        blends_grassoverlays_01_25
+        blends_grassoverlays_01_26
+        blends_grassoverlays_01_27
+        blends_grassoverlays_01_28
+        blends_grassoverlays_01_29
+    ]
+}
+alias
+{
+    name = medmedgrass
+    tiles = [
+        blends_grassoverlays_01_32
+        blends_grassoverlays_01_33
+        blends_grassoverlays_01_34
+        blends_grassoverlays_01_35
+        blends_grassoverlays_01_36
+        blends_grassoverlays_01_37
+    ]
+}
+alias
+{
+    name = medshortgrass
+    tiles = [
+        blends_grassoverlays_01_40
+        blends_grassoverlays_01_41
+        blends_grassoverlays_01_42
+        blends_grassoverlays_01_43
+        blends_grassoverlays_01_44
+        blends_grassoverlays_01_45
+    ]
+}
+alias
+{
+    name = lightlonggrass
+    tiles = [
+        blends_grassoverlays_01_48
+        blends_grassoverlays_01_49
+        blends_grassoverlays_01_50
+        blends_grassoverlays_01_51
+        blends_grassoverlays_01_52
+        blends_grassoverlays_01_53
+    ]
+}
+alias
+{
+    name = lightmedgrass
+    tiles = [
+        blends_grassoverlays_01_56
+        blends_grassoverlays_01_57
+        blends_grassoverlays_01_58
+        blends_grassoverlays_01_59
+        blends_grassoverlays_01_60
+        blends_grassoverlays_01_61
+    ]
+}
+alias
+{
+    name = lightshortgrass
+    tiles = [
+        blends_grassoverlays_01_64
+        blends_grassoverlays_01_65
+        blends_grassoverlays_01_66
+        blends_grassoverlays_01_67
+        blends_grassoverlays_01_68
+        blends_grassoverlays_01_69
+    ]
+}
+alias
+{
+    name = darklonggrass
+    tiles = [
+        blends_grassoverlays_01_0
+        blends_grassoverlays_01_1
+        blends_grassoverlays_01_2
+        blends_grassoverlays_01_3
+        blends_grassoverlays_01_4
+        blends_grassoverlays_01_5
+    ]
+}
+alias
+{
+    name = rocks
+    tiles = [
+        aza_blends_rockoverlays_01_0
+        aza_blends_rockoverlays_01_1
+        aza_blends_rockoverlays_01_2
+        aza_blends_rockoverlays_01_3
+        aza_blends_rockoverlays_01_4
+        aza_blends_rockoverlays_01_5
+        aza_blends_rockoverlays_01_8
+        aza_blends_rockoverlays_01_9
+        aza_blends_rockoverlays_01_10
+        aza_blends_rockoverlays_01_11
+        aza_blends_rockoverlays_01_12
+        aza_blends_rockoverlays_01_13
+        aza_blends_rockoverlays_01_16
+        aza_blends_rockoverlays_01_17
+        aza_blends_rockoverlays_01_18
+        aza_blends_rockoverlays_01_19
+        aza_blends_rockoverlays_01_20
+    ]
+}
+alias
+{
+    name = darkmedgrass
+    tiles = [
+        blends_grassoverlays_01_8
+        blends_grassoverlays_01_9
+        blends_grassoverlays_01_10
+        blends_grassoverlays_01_11
+        blends_grassoverlays_01_12
+        blends_grassoverlays_01_13
+    ]
+}
+alias
+{
+    name = darkshortgrass
+    tiles = [
+        blends_grassoverlays_01_16
+        blends_grassoverlays_01_17
+        blends_grassoverlays_01_18
+        blends_grassoverlays_01_19
+        blends_grassoverlays_01_20
+        blends_grassoverlays_01_21
+    ]
+}
+alias
+{
+    name = street
+    tiles = [
+        blends_street_01_96
+        blends_street_01_101
+        blends_street_01_102
+        blends_street_01_103
+    ]
+}
+alias
+{
+    name = street2
+    tiles = [
+        blends_street_01_80
+        blends_street_01_85
+        blends_street_01_86
+        blends_street_01_87
+    ]
+}
+alias
+{
+    name = lightgravel
+    tiles = [
+        blends_street_01_48
+        blends_street_01_53
+        blends_street_01_54
+        blends_street_01_55
+    ]
+}
+alias
+{
+    name = pothole
+    tiles = [
+        blends_street_01_16
+        blends_street_01_21
+    ]
+}
+alias
+{
+    name = dirt
+    tiles = [
+        blends_natural_01_64
+        blends_natural_01_69
+        blends_natural_01_70
+        blends_natural_01_71
+    ]
+}
+alias
+{
+    name = sand
+    tiles = [
+        blends_natural_01_0
+        blends_natural_01_5
+        blends_natural_01_6
+        blends_natural_01_7
+    ]
+}
+alias
+{
+    name = sandblends
+    tiles = [
+        blends_natural_01_8
+        blends_natural_01_9
+        blends_natural_01_10
+        blends_natural_01_11
+        blends_natural_01_1
+        blends_natural_01_4
+        blends_natural_01_3
+        blends_natural_01_2
+    ]
+}
+alias
+{
+    name = darkgrassblends
+    tiles = [
+        blends_natural_01_24
+        blends_natural_01_25
+        blends_natural_01_26
+        blends_natural_01_27
+        blends_natural_01_17
+        blends_natural_01_20
+        blends_natural_01_19
+        blends_natural_01_18
+    ]
+}
+alias
+{
+    name = medgrassblends
+    tiles = [
+        blends_natural_01_40
+        blends_natural_01_41
+        blends_natural_01_42
+        blends_natural_01_43
+        blends_natural_01_33
+        blends_natural_01_36
+        blends_natural_01_35
+        blends_natural_01_34
+    ]
+}
+alias
+{
+    name = lightgrassblends
+    tiles = [
+        blends_natural_01_56
+        blends_natural_01_57
+        blends_natural_01_58
+        blends_natural_01_59
+        blends_natural_01_49
+        blends_natural_01_52
+        blends_natural_01_51
+        blends_natural_01_59
+    ]
+}
+alias
+{
+    name = darkgrass
+    tiles = [
+        blends_natural_01_16
+        blends_natural_01_21
+        blends_natural_01_22
+        blends_natural_01_23
+    ]
+}
+alias
+{
+    name = medgrass
+    tiles = [
+        blends_natural_01_32
+        blends_natural_01_37
+        blends_natural_01_38
+        blends_natural_01_39
+    ]
+}
+alias
+{
+    name = lightgrass
+    tiles = [
+        blends_natural_01_48
+        blends_natural_01_53
+        blends_natural_01_54
+        blends_natural_01_55
+    ]
+}
+alias
+{
+    name = water
+    tiles = [
+        blends_natural_02_0
+        blends_natural_02_5
+        blends_natural_02_6
+        blends_natural_02_7
+    ]
+}
+rule
+{
+    label = Dark Grass
+    bitmap = 0
+    color = 90 100 35
+    tiles = darkgrass
+    layer = 0_Floor
+}
+rule
+{
+    label = Medium Grass
+    bitmap = 0
+    color = 117 117 47
+    tiles = medgrass
+    layer = 0_Floor
+}
+rule
+{
+    label = Light Grass
+    bitmap = 0
+    color = 145 135 60
+    tiles = lightgrass
+    layer = 0_Floor
+}
+rule
+{
+    label = Sand
+    bitmap = 0
+    color = 210 200 160
+    tiles = sand
+    layer = 0_Floor
+}
+rule
+{
+    label = BeCurb
+    bitmap = 0
+    color = 105 105 75
+    tiles = BeCurb
+    layer = 0_Floor
+}
+rule
+{
+    label = Light Asphalt
+    bitmap = 0
+    color = 165 160 140
+    tiles = lightgravel
+    layer = 0_Floor
+}
+rule
+{
+    label = Dark Asphalt (main roads)
+    bitmap = 0
+    color = 100 100 100
+    tiles = street2
+    layer = 0_Floor
+}
+rule
+{
+    label = Medium Asphalt
+    bitmap = 0
+    color = 120 120 120
+    tiles = street
+    layer = 0_Floor
+}
+rule
+{
+    label = Gravel Dirt
+    bitmap = 0
+    color = 140 70 15
+    tiles = floors_exterior_natural_01_12
+    layer = 0_Floor
+}
+rule
+{
+    label = Dirt
+    bitmap = 0
+    color = 120 70 20
+    tiles = dirt
+    layer = 0_Floor
+}
+rule
+{
+    label = Dark Pothole
+    bitmap = 0
+    color = 110 100 100
+    tiles = blends_street_01_0
+    layer = 0_Floor
+}
+rule
+{
+    label = Light Pothole
+    bitmap = 0
+    color = 130 120 120
+    tiles = pothole
+    layer = 0_Floor
+}
+rule
+{
+    label = Toxic
+    bitmap = 0
+    color = 33 33 233
+    tiles = Toxic
+    layer = 0_Floor
+}
+rule
+{
+    label = Water
+    bitmap = 0
+    color = 0 138 255
+    tiles = water
+    layer = 0_Floor
+}
+rule
+{
+    label = FarmLand
+    bitmap = 0
+    color = 140 90 40
+    tiles = floors_exterior_natural_01_17
+    layer = 0_Floor
+}
+rule
+{
+    label = Whitepaint
+    bitmap = 0
+    color = 255 255 255
+    tiles = e_exterior_snow_1_1
+    layer = 0_Floor
+}
+rule
+{
+    label = Woodexterior
+    bitmap = 0
+    color = 175 150 130
+    tiles = floors_interior_tilesandwood_01_52
+    layer = 0_Floor
+}
+rule
+{
+    label = Rocks
+    bitmap = 0
+    color = 175 130 130
+    tiles = [
+        floors_exterior_natural_01_11
+        floors_exterior_natural_01_10
+        floors_exterior_natural_01_9
+    ]
+    layer = 0_Floor
+}
+rule
+{
+    label = Tileexterior
+    bitmap = 0
+    color = 140 145 115
+    tiles = floors_exterior_tilesandstone_01_5
+    layer = 0_Floor
+}
+rule
+{
+    label = Pavementnew
+    bitmap = 0
+    color = 130 110 110
+    tiles = floors_exterior_tilesandstone_01_6
+    layer = 0_Floor
+}
+rule
+{
+    label = rocks
+    bitmap = 1
+    color = 150 105 105
+    tiles = rocks
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Desert Trees
+    bitmap = 1
+    color = 250 5 15
+    tiles = [
+        aza_deserttrees_0
+        aza_deserttrees_1
+        aza_deserttrees_2
+        aza_deserttrees_3
+        aza_deserttrees_4
+        aza_deserttrees_5
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Nearby River
+    bitmap = 1
+    color = 250 5 5
+    tiles = [
+        aza_deserttrees_0
+        aza_deserttrees_1
+        aza_deserttrees_2
+        aza_deserttrees_3
+        aza_deserttrees_4
+        aza_deserttrees_5
+        darklonggrass
+        medlonggrass
+        darkmedgrass
+        medshortgrass
+        d_generic_1_49
+        d_generic_1_50
+        d_generic_1_51
+        d_generic_1_52
+        d_generic_1_53
+        d_generic_1_54
+        d_generic_1_55
+        d_generic_1_48
+        d_generic_1_85
+        d_generic_1_80
+        d_generic_1_81
+        d_generic_1_82
+        d_generic_1_83
+        d_generic_1_84
+        d_generic_1_86
+        d_generic_1_87
+        d_generic_1_22
+        d_generic_1_23
+        d_generic_1_24
+        d_generic_1_25
+        d_generic_1_43
+        d_plants_1_16
+        d_plants_1_17
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_20
+        d_plants_1_21
+        d_plants_1_22
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Trees
+    bitmap = 1
+    color = 255 0 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        vegetation_trees_01_10
+        vegetation_trees_01_11
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Trees + Dark grass Aza Edit
+    bitmap = 1
+    color = 127 127 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        vegetation_trees_01_10
+        vegetation_trees_01_11
+        e_americanlinden_1_3
+        e_carolinasilverbell_1_3
+        e_cockspurhawthorn_1_3
+        e_dogwood_1_3
+        e_easternredbud_1_3
+        e_redmaple_1_3
+        e_riverbirch_1_3
+        e_yellowwood_1_3
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        d_plants_1_24
+        d_plants_1_25
+        d_plants_1_26
+        d_plants_1_27
+        d_plants_1_28
+        d_plants_1_29
+        d_plants_1_30
+        d_plants_1_31
+        vegetation_foliage_01_8
+        vegetation_foliage_01_9
+        vegetation_foliage_01_10
+        vegetation_foliage_01_11
+        vegetation_foliage_01_12
+        vegetation_foliage_01_13
+        vegetation_foliage_01_14
+        d_plants_1_16
+        d_plants_1_17
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_20
+        d_plants_1_21
+        d_plants_1_22
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Trees + Dark grass
+    bitmap = 1
+    color = 127 0 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        vegetation_trees_01_10
+        vegetation_trees_01_11
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+    ]
+    layer = 0_Vegetation
+    condition = 90 100 35
+}
+rule
+{
+    label = Trees + Medium grass
+    bitmap = 1
+    color = 127 0 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        vegetation_trees_01_10
+        vegetation_trees_01_11
+        medlonggrass
+        medlonggrass
+        medmedgrass
+        medshortgrass
+    ]
+    layer = 0_Vegetation
+    condition = 117 117 47
+}
+rule
+{
+    label = Trees + Light grass
+    bitmap = 1
+    color = 127 0 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        vegetation_trees_01_10
+        vegetation_trees_01_11
+        lightlonggrass
+        lightlonggrass
+        lightmedgrass
+        lightshortgrass
+    ]
+    layer = 0_Vegetation
+    condition = 145 135 60
+}
+rule
+{
+    bitmap = 1
+    color = 64 0 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        darkmedgrass
+        darkshortgrass
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Grass (all types)
+    bitmap = 1
+    color = 0 255 0
+    tiles = [
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        vegetation_groundcover_01_18
+        vegetation_groundcover_01_19
+        vegetation_groundcover_01_21
+        vegetation_groundcover_01_22
+        vegetation_groundcover_01_23
+    ]
+    layer = 0_Vegetation
+    condition = 90 100 35
+}
+rule
+{
+    label = Light long grass
+    bitmap = 1
+    color = 0 255 0
+    tiles = [
+        lightshortgrass
+        lightmedgrass
+        lightlonggrass
+        lightshortgrass
+        lightmedgrass
+        lightlonggrass
+        lightshortgrass
+        lightmedgrass
+        lightlonggrass
+        vegetation_groundcover_01_18
+        vegetation_groundcover_01_19
+        vegetation_groundcover_01_21
+        vegetation_groundcover_01_22
+        vegetation_groundcover_01_23
+    ]
+    layer = 0_Vegetation
+    condition = 145 135 60
+}
+rule
+{
+    bitmap = 1
+    color = 0 255 0
+    tiles = [
+        medshortgrass
+        medmedgrass
+        medlonggrass
+        medshortgrass
+        medmedgrass
+        medlonggrass
+        medshortgrass
+        medmedgrass
+        medlonggrass
+        vegetation_groundcover_01_18
+        vegetation_groundcover_01_19
+        vegetation_groundcover_01_21
+        vegetation_groundcover_01_22
+        vegetation_groundcover_01_23
+    ]
+    layer = 0_Vegetation
+    condition = 117 117 47
+}
+rule
+{
+    label = Grass + Few Trees (dark)
+    bitmap = 1
+    color = 0 128 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_10
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        darklonggrass
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darkmedgrass
+        vegetation_trees_01_8
+        vegetation_trees_01_10
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        vegetation_groundcover_01_18
+        vegetation_groundcover_01_19
+        vegetation_groundcover_01_21
+        vegetation_groundcover_01_22
+        vegetation_groundcover_01_23
+    ]
+    layer = 0_Vegetation
+    condition = 90 100 35
+}
+rule
+{
+    label = Grass + Few Trees (medium)
+    bitmap = 1
+    color = 0 128 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_10
+        medlonggrass
+        medlonggrass
+        medmedgrass
+        medshortgrass
+        medlonggrass
+        medlonggrass
+        medlonggrass
+        medmedgrass
+        medmedgrass
+        vegetation_trees_01_8
+        vegetation_trees_01_10
+        medlonggrass
+        medlonggrass
+        medmedgrass
+        medlonggrass
+        medlonggrass
+        medmedgrass
+        vegetation_groundcover_01_18
+        vegetation_groundcover_01_19
+        vegetation_groundcover_01_21
+        vegetation_groundcover_01_22
+        vegetation_groundcover_01_23
+    ]
+    layer = 0_Vegetation
+    condition = 117 117 47
+}
+rule
+{
+    label = Grass + Few Trees (light)
+    bitmap = 1
+    color = 0 128 0
+    tiles = [
+        vegetation_trees_01_8
+        vegetation_trees_01_10
+        lightlonggrass
+        lightlonggrass
+        lightmedgrass
+        lightshortgrass
+        lightlonggrass
+        lightlonggrass
+        lightlonggrass
+        lightmedgrass
+        lightmedgrass
+        vegetation_trees_01_8
+        vegetation_trees_01_10
+        lightlonggrass
+        lightlonggrass
+        lightmedgrass
+        lightlonggrass
+        lightlonggrass
+        lightmedgrass
+        vegetation_groundcover_01_18
+        vegetation_groundcover_01_19
+        vegetation_groundcover_01_21
+        vegetation_groundcover_01_22
+        vegetation_groundcover_01_23
+    ]
+    layer = 0_Vegetation
+    condition = 145 135 60
+}
+rule
+{
+    bitmap = 1
+    color = 255 0 255
+    tiles = [
+        vegetation_foliage_01_8
+        vegetation_foliage_01_9
+        vegetation_foliage_01_10
+        vegetation_foliage_01_11
+        vegetation_foliage_01_12
+        vegetation_foliage_01_13
+        vegetation_foliage_01_14
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        vegetation_trees_01_10
+        vegetation_trees_01_11
+        darklonggrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 255 255 100
+    tiles = [
+        vegetation_farm_01_0
+        vegetation_farm_01_1
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 0 45 200
+    tiles = vegetation_farm_01_2
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 50 95 120
+    tiles = [
+        vegetation_farming_01_50
+        vegetation_farming_01_51
+        vegetation_farming_01_52
+        vegetation_farming_01_53
+        vegetation_farming_01_54
+        vegetation_farming_01_55
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 135 5 100
+    tiles = [
+        vegetation_farming_01_68
+        vegetation_farming_01_69
+        vegetation_farming_01_70
+        vegetation_farming_01_71
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 135 5 150
+    tiles = [
+        vegetation_farming_01_22
+        vegetation_farming_01_22
+        vegetation_farming_01_22
+        vegetation_farming_01_22
+        vegetation_farming_01_22
+        vegetation_farming_01_21
+        vegetation_farming_01_20
+        vegetation_farming_01_19
+        vegetation_farming_01_21
+        vegetation_farming_01_20
+        vegetation_farming_01_19
+        vegetation_farming_01_23
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 255 150 0
+    tiles = [
+        vegetation_farming_01_60
+        vegetation_farming_01_61
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_62
+        vegetation_farming_01_63
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 255 170 85
+    tiles = [
+        vegetation_farming_01_36
+        vegetation_farming_01_37
+        vegetation_farming_01_37
+        vegetation_farming_01_37
+        vegetation_farming_01_38
+        vegetation_farming_01_39
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 50 75 20
+    tiles = [
+        vegetation_farming_01_68
+        vegetation_farming_01_69
+        vegetation_farming_01_70
+        vegetation_farming_01_71
+        vegetation_farming_01_36
+        vegetation_farming_01_37
+        vegetation_farming_01_38
+        vegetation_farming_01_39
+        vegetation_farming_01_20
+        vegetation_farming_01_21
+        vegetation_farming_01_22
+        vegetation_farming_01_23
+        vegetation_farming_01_52
+        vegetation_farming_01_53
+        vegetation_farming_01_54
+        vegetation_farming_01_55
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 236 0 140
+    tiles = [
+        d_plants_1_24
+        d_plants_1_25
+        d_plants_1_26
+        d_plants_1_27
+        d_plants_1_28
+        d_plants_1_29
+        d_plants_1_30
+        d_plants_1_31
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 240 50 160
+    tiles = [
+        d_plants_1_40
+        d_plants_1_41
+        d_plants_1_42
+        d_plants_1_43
+        d_plants_1_45
+        d_plants_1_46
+        d_plants_1_47
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 40 90 60
+    tiles = [
+        e_americanlinden_1_15
+        e_carolinasilverbell_1_15
+        e_cockspurhawthorn_1_15
+        e_dogwood_1_15
+        e_easternredbud_1_15
+        e_redmaple_1_15
+        e_riverbirch_1_15
+        e_yellowwood_1_15
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 40 90 60
+    tiles = [
+        e_americanlinden_1_3
+        e_carolinasilverbell_1_3
+        e_cockspurhawthorn_1_3
+        e_dogwood_1_3
+        e_easternredbud_1_3
+        e_redmaple_1_3
+        e_riverbirch_1_3
+        e_yellowwood_1_3
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = BeCacti
+    bitmap = 1
+    color = 90 85 0
+    tiles = [
+        BeCacti_0
+        BeCacti_2
+        BeCacti_3
+        BeCacti_8
+        BeCacti_9
+        BeCacti_11
+        BeCacti_16
+        BeCacti_17
+        BeCacti_18
+        BeCacti_19
+        BeCacti_24
+        BeCacti_25
+        BeCacti_26
+        BeCacti_27
+        BeCacti_28
+        BeCacti_32
+        BeCacti_33
+        BeCacti_34
+        BeCacti_35
+        BeCacti_36
+        aza_deserttrees_0
+        aza_deserttrees_1
+        aza_deserttrees_2
+        aza_deserttrees_3
+        aza_deserttrees_4
+        aza_deserttrees_5
+        BeGrass_0
+        BeGrass_1
+        BeGrass_2
+        BeGrass_3
+        BeGrass_4
+        BeGrass_5
+        BeGrass_6
+        BeGrass_7
+        BeGrass_8
+        BeGrass_9
+        BeGrass_10
+        BeGrass_11
+        BeGrass_12
+        BeGrass_13
+        BeGrass_14
+        BeGrass_15
+        BeGrass_16
+        BeGrass_17
+        BeGrass_18
+        BeGrass_19
+        BeGrass_20
+        BeGrass_21
+        BeGrass_22
+        BeGrass_23
+        BeGrass_24
+        BeGrass_25
+        BeGrass_26
+        BeGrass_27
+        BeGrass_28
+        BeGrass_29
+        BeGrass_30
+        BeGrass_31
+        BeGrass_32
+        BeGrass_33
+        BeGrass_34
+        BeGrass_35
+        BeGrass_36
+        BeGrass_37
+        BeGrass_38
+        BeGrass_39
+        BeGrass_40
+        BeGrass_41
+        BeGrass_42
+        BeGrass_43
+        BeGrass_44
+        BeGrass_45
+        BeGrass_46
+        BeGrass_47
+        BeGrass_48
+        BeGrass_49
+        BeGrass_50
+        BeGrass_51
+        BeGrass_52
+        BeGrass_53
+        BeGrass_54
+        BeGrass_55
+        BeGrass_56
+        BeGrass_57
+        BeGrass_58
+        BeGrass_59
+        BeGrass_60
+        BeGrass_61
+        BeGrass_62
+        BeGrass_63
+        BeGrass_64
+        BeGrass_65
+        BeGrass_66
+        BeGrass_67
+        BeGrass_68
+        BeGrass_69
+        BeGrass_70
+        BeGrass_71
+        BeGrass_72
+        BeGrass_73
+        BeGrass_74
+        BeGrass_75
+        BeGrass_76
+        BeGrass_77
+        BeGrass_78
+        BeGrass_79
+        BeGrass_80
+        BeGrass_81
+        BeGrass_82
+        BeGrass_83
+        BeGrass_84
+        BeGrass_85
+        BeGrass_86
+        BeGrass_87
+        BeGrass_88
+        BeGrass_89
+        BeGrass_90
+        BeGrass_91
+        BeGrass_92
+        BeGrass_93
+        BeGrass_94
+        BeGrass_95
+        BeGrass_96
+        BeGrass_97
+        BeGrass_98
+        BeGrass_99
+        BeGrass_100
+        BeGrass_101
+        BeGrass_102
+        BeGrass_103
+        BeGrassFaded_0
+        BeGrassFaded_1
+        BeGrassFaded_2
+        BeGrassFaded_3
+        BeGrassFaded_4
+        BeGrassFaded_5
+        BeGrassFaded_6
+        BeGrassFaded_7
+        BeGrassFaded_8
+        BeGrassFaded_9
+        BeGrassFaded_10
+        BeGrassFaded_11
+        BeGrassFaded_12
+        BeGrassFaded_13
+        BeGrassFaded_14
+        BeGrassFaded_15
+        BeGrassFaded_16
+        BeGrassFaded_17
+        BeGrassFaded_18
+        BeGrassFaded_19
+        BeGrassFaded_20
+        BeGrassFaded_21
+        BeGrassFaded_22
+        BeGrassFaded_23
+        BeGrassFaded_24
+        BeGrassFaded_25
+        BeGrassFaded_26
+        BeGrassFaded_27
+        BeGrassFaded_28
+        BeGrassFaded_29
+        BeGrassFaded_30
+        BeGrassFaded_31
+        BeGrassFaded_32
+        BeGrassFaded_33
+        BeGrassFaded_34
+        BeGrassFaded_35
+        BeGrassFaded_36
+        BeGrassFaded_37
+        BeGrassFaded_38
+        BeGrassFaded_39
+        BeGrassFaded_40
+        BeGrassFaded_41
+        BeGrassFaded_42
+        BeGrassFaded_43
+        BeGrassFaded_44
+        BeGrassFaded_45
+        BeGrassFaded_46
+        BeGrassFaded_47
+        BeGrassFaded_48
+        BeGrassFaded_49
+        BeGrassFaded_50
+        BeGrassFaded_51
+        BeGrassFaded_52
+        BeGrassFaded_53
+        BeGrassFaded_54
+        BeGrassFaded_55
+        BeGrassFaded_56
+        BeGrassFaded_57
+        BeGrassFaded_58
+        BeGrassFaded_59
+        BeGrassFaded_60
+        BeGrassFaded_61
+        BeGrassFaded_62
+        BeGrassFaded_63
+        BeGrassFaded_64
+        BeGrassFaded_65
+        BeGrassFaded_66
+        BeGrassFaded_67
+        BeGrassFaded_68
+        BeGrassFaded_69
+        BeGrassFaded_70
+        BeGrassFaded_71
+        BeGrassFaded_72
+        BeGrassFaded_73
+        BeGrassFaded_74
+        BeGrassFaded_75
+        BeGrassFaded_76
+        BeGrassFaded_77
+        BeGrassFaded_78
+        BeGrassFaded_79
+        BeGrassFaded_80
+        BeGrassFaded_81
+        BeGrassFaded_82
+        BeGrassFaded_83
+        BeGrassFaded_84
+        BeGrassFaded_85
+        BeGrassFaded_86
+        BeGrassFaded_87
+        BeGrassFaded_88
+        BeGrassFaded_89
+        BeGrassFaded_90
+        BeGrassFaded_91
+        BeGrassFaded_92
+        BeGrassFaded_93
+        BeGrassFaded_94
+        BeGrassFaded_95
+        BeGrassFaded_96
+        BeGrassFaded_97
+        BeGrassFaded_98
+        BeGrassFaded_99
+        BeGrassFaded_100
+        BeGrassFaded_101
+        BeGrassFaded_102
+        BeGrassFaded_103
+        BeGrassFaded_104
+        BeGrassFaded_105
+        BeGrassFaded_106
+        BeGrassFaded_107
+        BeGrassFaded_108
+        BeGrassFaded_109
+        BeGrassFaded_110
+        BeGrassFaded_111
+        BeGrassFaded_112
+        BeGrassFaded_113
+        BeGrassFaded_114
+        BeGrassFaded_115
+        BeGrassFaded_116
+        BeGrassFaded_117
+        BeGrassFaded_118
+        BeGrassFaded_119
+        BeGrassFaded_120
+        BeGrassFaded_121
+        BeGrassFaded_122
+        BeGrassFaded_123
+        BeGrassFaded_124
+        BeGrassFaded_125
+        BeGrassFaded_126
+        BeGrassFaded_127
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 200 85 0
+    tiles = [
+        d_generic_1_49
+        d_generic_1_50
+        d_generic_1_51
+        d_generic_1_52
+        d_generic_1_53
+        d_generic_1_54
+        d_generic_1_55
+        d_generic_1_48
+        d_generic_1_85
+        d_generic_1_80
+        d_generic_1_81
+        d_generic_1_82
+        d_generic_1_83
+        d_generic_1_84
+        d_generic_1_86
+        d_generic_1_87
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = trash
+    bitmap = 1
+    color = 250 80 70
+    tiles = [
+        d_trash_1_0
+        d_trash_1_1
+        d_trash_1_2
+        d_trash_1_3
+        d_trash_1_4
+        d_trash_1_5
+        d_trash_1_6
+        d_trash_1_7
+        d_trash_1_8
+        d_trash_1_9
+        d_trash_1_10
+        d_trash_1_11
+        d_trash_1_12
+        d_trash_1_13
+        d_trash_1_14
+        d_trash_1_15
+        d_trash_1_16
+        d_trash_1_17
+        d_trash_1_18
+        d_trash_1_19
+        d_trash_1_21
+        d_trash_1_22
+        d_trash_1_23
+        d_trash_1_24
+        d_trash_1_25
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Brush
+    bitmap = 1
+    color = 145 85 70
+    tiles = [
+        aza_deserttrees_4
+        aza_deserttrees_5
+        lightlonggrass
+        lightlonggrass
+        lightmedgrass
+        lightshortgrass
+        vegetation_foliage_01_8
+        vegetation_foliage_01_9
+        vegetation_foliage_01_10
+        vegetation_foliage_01_11
+        vegetation_foliage_01_12
+        vegetation_foliage_01_13
+        vegetation_foliage_01_14
+        d_plants_1_16
+        d_plants_1_17
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_20
+        d_plants_1_21
+        d_plants_1_22
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+        d_plants_1_18
+        d_plants_1_19
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = cracks
+    bitmap = 1
+    color = 128 128 128
+    tiles = [
+        d_streetcracks_1_1
+        d_streetcracks_1_3
+        d_streetcracks_1_2
+        d_streetcracks_1_4
+        d_streetcracks_1_5
+        d_streetcracks_1_6
+        d_streetcracks_1_7
+        d_streetcracks_1_8
+        d_streetcracks_1_9
+        d_streetcracks_1_10
+        d_streetcracks_1_11
+        d_streetcracks_1_0
+        d_streetcracks_1_12
+        d_streetcracks_1_13
+        d_streetcracks_1_14
+        d_streetcracks_1_15
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = grave
+    bitmap = 1
+    color = 130 160 175
+    tiles = [
+        location_community_cemetary_01_0
+        location_community_cemetary_01_2
+        location_community_cemetary_01_4
+        location_community_cemetary_01_8
+        location_community_cemetary_01_0
+        location_community_cemetary_01_2
+        location_community_cemetary_01_4
+        location_community_cemetary_01_8
+        location_community_cemetary_01_0
+        location_community_cemetary_01_2
+        location_community_cemetary_01_4
+        location_community_cemetary_01_8
+        location_community_cemetary_01_22
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 80 110 175
+    tiles = [
+        f_flowerbed_1_1
+        f_flowerbed_1_2
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 210 210 140
+    tiles = lighting_outdoor_01_1
+    layer = 0_Vegetation
+}
+rule
+{
+    label = BeGrass
+    bitmap = 1
+    color = 255 240 150
+    tiles = [
+        BeGrass_0
+        BeGrass_1
+        BeGrass_2
+        BeGrass_3
+        BeGrass_4
+        BeGrass_5
+        BeGrass_6
+        BeGrass_7
+        BeGrass_8
+        BeGrass_9
+        BeGrass_10
+        BeGrass_11
+        BeGrass_12
+        BeGrass_13
+        BeGrass_14
+        BeGrass_15
+        BeGrass_16
+        BeGrass_17
+        BeGrass_18
+        BeGrass_19
+        BeGrass_20
+        BeGrass_21
+        BeGrass_22
+        BeGrass_23
+        BeGrass_24
+        BeGrass_25
+        BeGrass_26
+        BeGrass_27
+        BeGrass_28
+        BeGrass_29
+        BeGrass_30
+        BeGrass_31
+        BeGrass_32
+        BeGrass_33
+        BeGrass_34
+        BeGrass_35
+        BeGrass_36
+        BeGrass_37
+        BeGrass_38
+        BeGrass_39
+        BeGrass_40
+        BeGrass_41
+        BeGrass_42
+        BeGrass_43
+        BeGrass_44
+        BeGrass_45
+        BeGrass_46
+        BeGrass_47
+        BeGrass_48
+        BeGrass_49
+        BeGrass_50
+        BeGrass_51
+        BeGrass_52
+        BeGrass_53
+        BeGrass_54
+        BeGrass_55
+        BeGrass_56
+        BeGrass_57
+        BeGrass_58
+        BeGrass_59
+        BeGrass_60
+        BeGrass_61
+        BeGrass_62
+        BeGrass_63
+        BeGrass_64
+        BeGrass_65
+        BeGrass_66
+        BeGrass_67
+        BeGrass_68
+        BeGrass_69
+        BeGrass_70
+        BeGrass_71
+        BeGrass_72
+        BeGrass_73
+        BeGrass_74
+        BeGrass_75
+        BeGrass_76
+        BeGrass_77
+        BeGrass_78
+        BeGrass_79
+        BeGrass_80
+        BeGrass_81
+        BeGrass_82
+        BeGrass_83
+        BeGrass_84
+        BeGrass_85
+        BeGrass_86
+        BeGrass_87
+        BeGrass_88
+        BeGrass_89
+        BeGrass_90
+        BeGrass_91
+        BeGrass_92
+        BeGrass_93
+        BeGrass_94
+        BeGrass_95
+        BeGrass_96
+        BeGrass_97
+        BeGrass_98
+        BeGrass_99
+        BeGrass_100
+        BeGrass_101
+        BeGrass_102
+        BeGrass_103
+        BeGrassFaded_0
+        BeGrassFaded_1
+        BeGrassFaded_2
+        BeGrassFaded_3
+        BeGrassFaded_4
+        BeGrassFaded_5
+        BeGrassFaded_6
+        BeGrassFaded_7
+        BeGrassFaded_8
+        BeGrassFaded_9
+        BeGrassFaded_10
+        BeGrassFaded_11
+        BeGrassFaded_12
+        BeGrassFaded_13
+        BeGrassFaded_14
+        BeGrassFaded_15
+        BeGrassFaded_16
+        BeGrassFaded_17
+        BeGrassFaded_18
+        BeGrassFaded_19
+        BeGrassFaded_20
+        BeGrassFaded_21
+        BeGrassFaded_22
+        BeGrassFaded_23
+        BeGrassFaded_24
+        BeGrassFaded_25
+        BeGrassFaded_26
+        BeGrassFaded_27
+        BeGrassFaded_28
+        BeGrassFaded_29
+        BeGrassFaded_30
+        BeGrassFaded_31
+        BeGrassFaded_32
+        BeGrassFaded_33
+        BeGrassFaded_34
+        BeGrassFaded_35
+        BeGrassFaded_36
+        BeGrassFaded_37
+        BeGrassFaded_38
+        BeGrassFaded_39
+        BeGrassFaded_40
+        BeGrassFaded_41
+        BeGrassFaded_42
+        BeGrassFaded_43
+        BeGrassFaded_44
+        BeGrassFaded_45
+        BeGrassFaded_46
+        BeGrassFaded_47
+        BeGrassFaded_48
+        BeGrassFaded_49
+        BeGrassFaded_50
+        BeGrassFaded_51
+        BeGrassFaded_52
+        BeGrassFaded_53
+        BeGrassFaded_54
+        BeGrassFaded_55
+        BeGrassFaded_56
+        BeGrassFaded_57
+        BeGrassFaded_58
+        BeGrassFaded_59
+        BeGrassFaded_60
+        BeGrassFaded_61
+        BeGrassFaded_62
+        BeGrassFaded_63
+        BeGrassFaded_64
+        BeGrassFaded_65
+        BeGrassFaded_66
+        BeGrassFaded_67
+        BeGrassFaded_68
+        BeGrassFaded_69
+        BeGrassFaded_70
+        BeGrassFaded_71
+        BeGrassFaded_72
+        BeGrassFaded_73
+        BeGrassFaded_74
+        BeGrassFaded_75
+        BeGrassFaded_76
+        BeGrassFaded_77
+        BeGrassFaded_78
+        BeGrassFaded_79
+        BeGrassFaded_80
+        BeGrassFaded_81
+        BeGrassFaded_82
+        BeGrassFaded_83
+        BeGrassFaded_84
+        BeGrassFaded_85
+        BeGrassFaded_86
+        BeGrassFaded_87
+        BeGrassFaded_88
+        BeGrassFaded_89
+        BeGrassFaded_90
+        BeGrassFaded_91
+        BeGrassFaded_92
+        BeGrassFaded_93
+        BeGrassFaded_94
+        BeGrassFaded_95
+        BeGrassFaded_96
+        BeGrassFaded_97
+        BeGrassFaded_98
+        BeGrassFaded_99
+        BeGrassFaded_100
+        BeGrassFaded_101
+        BeGrassFaded_102
+        BeGrassFaded_103
+        BeGrassFaded_104
+        BeGrassFaded_105
+        BeGrassFaded_106
+        BeGrassFaded_107
+        BeGrassFaded_108
+        BeGrassFaded_109
+        BeGrassFaded_110
+        BeGrassFaded_111
+        BeGrassFaded_112
+        BeGrassFaded_113
+        BeGrassFaded_114
+        BeGrassFaded_115
+        BeGrassFaded_116
+        BeGrassFaded_117
+        BeGrassFaded_118
+        BeGrassFaded_119
+        BeGrassFaded_120
+        BeGrassFaded_121
+        BeGrassFaded_122
+        BeGrassFaded_123
+        BeGrassFaded_124
+        BeGrassFaded_125
+        BeGrassFaded_126
+        BeGrassFaded_127
+        BeRock2_0
+        BeRock2_1
+        BeRock2_2
+        BeRock2_3
+        BeRock2_4
+        BeRock2_5
+        BeRock2_6
+        BeRock2_7
+        BeRock2_8
+        BeRock2_9
+        BeRock2_10
+        BeRock2_11
+        BeRock2_12
+        BeRock2_13
+        BeRock2_14
+        BeRock2_15
+        BeRock2_16
+        BeRock2_17
+        BeRock2_18
+        BeRock2_19
+        BeRock2_20
+        BeRock2_21
+        BeRock2_22
+        BeRock2_23
+        BeRock2_24
+        BeRock2_25
+        BeRock2_26
+        BeRock2_27
+        BeRock2_28
+        BeRock2_29
+        BeRock2_30
+        BeRock2_31
+        BeRock2_32
+        BeRock2_33
+        BeRock2_34
+        BeRock2_35
+        BeRock2_36
+        BeRock2_37
+        BeRock2_38
+        BeRock2_39
+        BeRock2_40
+        BeRock2_41
+        BeRock2_42
+        BeRock2_43
+        BeRock2_44
+        BeRock2_45
+        BeRock2_46
+        BeRock2_47
+        BeRock2_48
+        BeRock2_49
+        BeRock2_50
+        BeRock2_51
+        BeRock2_52
+        BeRock2_53
+        BeRock2_54
+        BeRock2_55
+        BeRock2_56
+        BeRock2_57
+        BeRock2_58
+        BeRock2_59
+        BeRock2_60
+        BeRock2_61
+        BeRock2_62
+        BeRock2_63
+        BeRock2_64
+        BeRock2_65
+        BeRock2_66
+        BeRock2_67
+        BeRock2_68
+        BeRock2_69
+        BeRock2_70
+        BeRock2_71
+        BeRock2_72
+        BeRock2_73
+        BeRock2_74
+        BeRock2_75
+        BeRock2_76
+        BeRock2_77
+        BeRock2_78
+        BeRock2_79
+        BeRock2_80
+        BeRock2_81
+        BeRock2_82
+        BeRock2_83
+        BeRock2_84
+        BeRock2_85
+        BeRock2_86
+        BeRock2_87
+        BeRock2_88
+        BeRock2_89
+        BeRock2_90
+        BeRock2_91
+        BeRock2_92
+        BeRock2_93
+        BeRock2_94
+        BeRock2_95
+        BeRock2_96
+        BeRock2_97
+        BeRock2_98
+        BeRock2_99
+        BeRock2_100
+        BeRock2_101
+        BeRock2_102
+        BeRock2_103
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Bush
+    bitmap = 1
+    color = 70 0 40
+    tiles = [
+        f_bushes_1_0
+        f_bushes_1_1
+        f_bushes_1_2
+        f_bushes_1_3
+        f_bushes_1_4
+        f_bushes_1_5
+        f_bushes_1_6
+        f_bushes_1_7
+        f_bushes_1_8
+        f_bushes_1_9
+        f_bushes_1_10
+        f_bushes_1_11
+        f_bushes_1_12
+        f_bushes_1_13
+        f_bushes_1_14
+        f_bushes_1_15
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 25 80 10
+    tiles = vegetation_ornamental_01_1
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 10 80 85
+    tiles = vegetation_ornamental_01_0
+    layer = 0_Vegetation
+}
+rule
+{
+    label = DirtLite
+    bitmap = 0
+    color = 120 130 140
+    tiles = [
+        blends_street_BeDirt_0
+        blends_street_BeDirt_5
+        blends_street_BeDirt_6
+        blends_street_BeDirt_7
+    ]
+    layer = 0_Floor
+}
+rule
+{
+    label = DirtMed
+    bitmap = 0
+    color = 60 86 94
+    tiles = [
+        blends_street_BeDirt_16
+        blends_street_BeDirt_21
+        blends_street_BeDirt_22
+        blends_street_BeDirt_23
+    ]
+    layer = 0_Floor
+}
+rule
+{
+    label = DirtDark
+    bitmap = 0
+    color = 80 10 30
+    tiles = [
+        blends_street_BeDirt_32
+        blends_street_BeDirt_37
+        blends_street_BeDirt_38
+        blends_street_BeDirt_39
+    ]
+    layer = 0_Floor
+}
+rule
+{
+    bitmap = 1
+    color = 80 56 10
+    tiles = [
+        fencing_01_35
+        fencing_01_34
+        fencing_01_34
+        fencing_01_34
+        fencing_01_34
+        fencing_01_34
+        fencing_01_34
+        fencing_01_34
+        fencing_01_34
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Street Sand
+    bitmap = 0
+    color = 75 75 75
+    tiles = [
+        blends_street_BeDirt_96
+        blends_street_BeDirt_101
+        blends_street_BeDirt_102
+        blends_street_BeDirt_103
+    ]
+    layer = 0_Floor
+}
+rule
+{
+    bitmap = 1
+    color = 45 45 45
+    tiles = fencing_01_67
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 170 170 170
+    tiles = fencing_01_4
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 220 220 220
+    tiles = fencing_01_5
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 88 88 88
+    tiles = fencing_01_48
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 110 110 110
+    tiles = fencing_01_51
+    layer = 0_Vegetation
+}
+rule
+{
+    bitmap = 1
+    color = 210 188 140
+    tiles = lighting_outdoor_01_2
+    layer = 0_Vegetation
+}
+rule
+{
+    label = desert_Dark Grass
+    bitmap = 0
+    color = 90 100 69
+    tiles = desert_darkgrass
+    layer = 0_Floor
+}
+rule
+{
+    label = desert_Medium Grass
+    bitmap = 0
+    color = 117 117 69
+    tiles = desert_medgrass
+    layer = 0_Floor
+}
+rule
+{
+    label = desert_Light Grass
+    bitmap = 0
+    color = 145 135 69
+    tiles = desert_lightgrass
+    layer = 0_Floor
+}
+rule
+{
+    label = desert_Sand
+    bitmap = 0
+    color = 210 200 69
+    tiles = desert_sand
+    layer = 0_Floor
+}
+rule
+{
+    label = desert_Dirt
+    bitmap = 0
+    color = 120 70 0
+    tiles = desert_dirt
+    layer = 0_Floor
+}
+rule
+{
+    bitmap = 1
+    color = 85 180 80
+    tiles = [
+        vegetation_groundcover_01_18
+        vegetation_groundcover_01_19
+        vegetation_groundcover_01_21
+        vegetation_groundcover_01_22
+        vegetation_groundcover_01_23
+        lightlonggrass
+        lightmedgrass
+        lightshortgrass
+        lightmedgrass
+        darklonggrass
+        darkmedgrass
+        darkshortgrass
+        medlonggrass
+        medmedgrass
+        medshortgrass
+        vegetation_foliage_01_8
+        vegetation_foliage_01_9
+        vegetation_foliage_01_10
+        vegetation_foliage_01_11
+        vegetation_foliage_01_12
+        vegetation_foliage_01_13
+        vegetation_foliage_01_14
+        vegetation_trees_01_0
+        vegetation_trees_01_1
+        vegetation_trees_01_8
+        vegetation_trees_01_9
+        vegetation_trees_01_10
+        vegetation_trees_01_11
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = BeRock
+    bitmap = 1
+    color = 160 160 160
+    tiles = [
+        BeRock_0
+        BeRock_8
+        BeRock_16
+        BeRock_24
+        BeRock_32
+        BeRock_40
+        BeRock_64
+	BeRock_28
+	BeRock_29
+	BeRock_30
+	BeRock_36
+	BeRock_37
+	BeRock_38
+	BeRock_44
+	BeRock_45
+	BeRock_46
+	BeRock_47
+	BeRock_52
+	BeRock_53
+	BeRock_54
+	BeRock_55
+	BeRock_60
+	BeRock_61
+	BeRock_62
+	BeRock_63
+	BeRock_68
+	BeRock_69
+	BeRock_70
+	BeRock_71
+	BeRock_76
+	BeRock_77
+	BeRock_78
+	BeRock_79
+	BeRock_84
+	BeRock_85
+	BeRock_86
+	BeRock_87
+	BeRock_92
+	BeRock_93
+	BeRock_94
+	BeRock_95
+	BeRock_100
+	BeRock_101
+	BeRock_102
+	BeRock_103
+    ]
+    layer = 0_Vegetation1
+}
+rule
+{
+    label = BeRock2
+    bitmap = 1
+    color = 255 200 170
+    tiles = [
+        BeRock_4
+        BeRock_5
+        BeRock_6
+        BeRock_7
+        BeRock_12
+        BeRock_13
+        BeRock_14
+        BeRock_15
+        BeRock_20
+        BeRock_21
+        BeRock_22
+        BeRock_23
+    ]
+    layer = 0_Vegetation1
+}
+rule
+{
+    label = BeRockWall
+    bitmap = 1
+    color = 45 45 150
+    tiles = [
+        BeRock_48
+    ]
+    layer = 0_Vegetation1
+}
+rule
+{
+    label = BeRockWalk
+    bitmap = 0
+    color = 95 95 150
+    tiles = [
+        BeRock_72
+    ]
+    layer = 0_Floor
+}
+rule
+{
+    label = BeRock_Floor
+    bitmap = 0
+    color = 222 100 125
+    tiles = BeRock_Floor
+    layer = 0_Floor
+}
+rule
+{
+    label = BeSand_Lite
+    bitmap = 0
+    color = 255 236 0
+    tiles = BeSand_Lite
+    layer = 0_Floor
+}
+rule
+{
+    label = BeSand_Med
+    bitmap = 0
+    color = 191 154 0
+    tiles = BeSand_Med
+    layer = 0_Floor
+}
+rule
+{
+    label = BeSand_Dark
+    bitmap = 0
+    color = 210 69 69
+    tiles = BeSand_Dark
+    layer = 0_Floor
+}
+rule
+{
+    label = BeDirt
+    bitmap = 0
+    color = 145 85 5
+    tiles = BeDirt
+    layer = 0_Floor
+}
+rule
+{
+    label = BeVegDirt
+    bitmap = 1
+    color = 90 220 190
+    tiles = [
+        
+        BeSwamp2_0
+        BeSwamp2_1
+        BeSwamp2_2
+        BeSwamp2_3
+        BeSwamp2_4
+        BeSwamp2_5
+        BeSwamp2_6
+        BeSwamp2_7
+        BeSwamp2_8
+        BeSwamp2_9
+        BeSwamp2_10
+        BeSwamp2_11
+        BeSwamp2_12
+        BeSwamp2_13
+        BeSwamp2_14
+        BeSwamp2_15
+        BeSwamp2_16
+        BeSwamp2_17
+        BeSwamp2_18
+        BeSwamp2_19
+        BeSwamp2_20
+        BeSwamp2_21
+        BeSwamp2_22
+        BeSwamp2_23
+        BeSwamp2_24
+        BeSwamp2_25
+        BeSwamp2_26
+        BeSwamp2_27
+        BeSwamp2_28
+        BeSwamp2_29
+        BeSwamp2_30
+        BeSwamp2_31
+       
+        BeSwamp2_104
+        BeSwamp2_105
+        BeSwamp2_106
+        BeSwamp2_107
+        BeSwamp2_108
+        BeSwamp2_109
+        BeSwamp2_110
+        BeSwamp2_111
+        BeSwamp2_112
+        BeSwamp2_113
+        BeSwamp2_114
+        BeSwamp2_115
+        BeSwamp2_116
+        BeSwamp2_117
+        BeSwamp2_118
+        BeSwamp2_119
+        BeSwamp2_120
+        BeSwamp2_121
+        BeSwamp2_122
+        BeSwamp2_123
+        BeSwamp2_124
+        BeSwamp2_125
+        BeSwamp2_126
+        BeSwamp2_127
+        BeSwamp2_71
+        BeSwamp2_72
+        BeSwamp2_73
+        BeSwamp2_74
+        BeSwamp2_75
+        BeSwamp2_76
+        BeSwamp2_77
+        BeSwamp2_78
+        BeSwamp2_79
+        BeSwamp2_80
+        BeSwamp2_81
+        BeSwamp2_82
+        BeSwamp2_83
+        BeSwamp2_84
+        BeSwamp2_85
+        BeSwamp2_86
+        BeSwamp2_87
+        BeSwamp2_88
+        BeSwamp2_89
+        BeSwamp2_90
+        BeSwamp2_91
+        BeSwamp2_92
+        BeSwamp2_93
+        BeSwamp2_94
+        BeSwamp2_95
+        
+        BeGrass_0
+        BeGrass_1
+        BeGrass_2
+        BeGrass_3
+        BeGrass_4
+        BeGrass_5
+        BeGrass_6
+        BeGrass_7
+        BeGrass_8
+        BeGrass_9
+        BeGrass_10
+        BeGrass_11
+        BeGrass_12
+        BeGrass_13
+        BeGrass_14
+        BeGrass_15
+        BeGrass_16
+        BeGrass_17
+        BeGrass_18
+        BeGrass_19
+        BeGrass_20
+        BeGrass_21
+        BeGrass_22
+        BeGrass_23
+        BeGrass_24
+        BeGrass_25
+        BeGrass_26
+        BeGrass_27
+        BeGrass_28
+        BeGrass_29
+        BeGrass_30
+        BeGrass_31
+        BeGrass_32
+        BeGrass_33
+        BeGrass_34
+        BeGrass_35
+        BeGrass_36
+        BeGrass_37
+        BeGrass_38
+        BeGrass_39
+        BeGrass_40
+        BeGrass_41
+        BeGrass_42
+        BeGrass_43
+        BeGrass_44
+        BeGrass_45
+        BeGrass_46
+        BeGrass_47
+        BeGrass_48
+        BeGrass_49
+        BeGrass_50
+        BeGrass_51
+        BeGrass_52
+        BeGrass_53
+        BeGrass_54
+        BeGrass_55
+        BeGrass_56
+        BeGrass_57
+        BeGrass_58
+        BeGrass_59
+        BeGrass_60
+        BeGrass_61
+        BeGrass_62
+        BeGrass_63
+        BeGrass_64
+        BeGrass_65
+        BeGrass_66
+        BeGrass_67
+        BeGrass_68
+        BeGrass_69
+        BeGrass_70
+        BeGrass_71
+        BeGrass_72
+        BeGrass_73
+        BeGrass_74
+        BeGrass_75
+        BeGrass_76
+        BeGrass_77
+        BeGrass_78
+        BeGrass_79
+        BeGrass_80
+        BeGrass_81
+        BeGrass_82
+        BeGrass_83
+        BeGrass_84
+        BeGrass_85
+        BeGrass_86
+        BeGrass_87
+        BeGrass_88
+        BeGrass_89
+        BeGrass_90
+        BeGrass_91
+        BeGrass_92
+        BeGrass_93
+        BeGrass_94
+        BeGrass_95
+        BeGrass_96
+        BeGrass_97
+        BeGrass_98
+        BeGrass_99
+        BeGrass_100
+        BeGrass_101
+        BeGrass_102
+        BeGrass_103
+        BeGrassFaded_0
+        BeGrassFaded_1
+        BeGrassFaded_2
+        BeGrassFaded_3
+        BeGrassFaded_4
+        BeGrassFaded_5
+        BeGrassFaded_6
+        BeGrassFaded_7
+        BeGrassFaded_8
+        BeGrassFaded_9
+        BeGrassFaded_10
+        BeGrassFaded_11
+        BeGrassFaded_12
+        BeGrassFaded_13
+        BeGrassFaded_14
+        BeGrassFaded_15
+        BeGrassFaded_16
+        BeGrassFaded_17
+        BeGrassFaded_18
+        BeGrassFaded_19
+        BeGrassFaded_20
+        BeGrassFaded_21
+        BeGrassFaded_22
+        BeGrassFaded_23
+        BeGrassFaded_24
+        BeGrassFaded_25
+        BeGrassFaded_26
+        BeGrassFaded_27
+        BeGrassFaded_28
+        BeGrassFaded_29
+        BeGrassFaded_30
+        BeGrassFaded_31
+        BeGrassFaded_32
+        BeGrassFaded_33
+        BeGrassFaded_34
+        BeGrassFaded_35
+        BeGrassFaded_36
+        BeGrassFaded_37
+        BeGrassFaded_38
+        BeGrassFaded_39
+        BeGrassFaded_40
+        BeGrassFaded_41
+        BeGrassFaded_42
+        BeGrassFaded_43
+        BeGrassFaded_44
+        BeGrassFaded_45
+        BeGrassFaded_46
+        BeGrassFaded_47
+        BeGrassFaded_48
+        BeGrassFaded_49
+        BeGrassFaded_50
+        BeGrassFaded_51
+        BeGrassFaded_52
+        BeGrassFaded_53
+        BeGrassFaded_54
+        BeGrassFaded_55
+        BeGrassFaded_56
+        BeGrassFaded_57
+        BeGrassFaded_58
+        BeGrassFaded_59
+        BeGrassFaded_60
+        BeGrassFaded_61
+        BeGrassFaded_62
+        BeGrassFaded_63
+        BeGrassFaded_64
+        BeGrassFaded_65
+        BeGrassFaded_66
+        BeGrassFaded_67
+        BeGrassFaded_68
+        BeGrassFaded_69
+        BeGrassFaded_70
+        BeGrassFaded_71
+        BeGrassFaded_72
+        BeGrassFaded_73
+        BeGrassFaded_74
+        BeGrassFaded_75
+        BeGrassFaded_76
+        BeGrassFaded_77
+        BeGrassFaded_78
+        BeGrassFaded_79
+        BeGrassFaded_80
+        BeGrassFaded_81
+        BeGrassFaded_82
+        BeGrassFaded_83
+        BeGrassFaded_84
+        BeGrassFaded_85
+        BeGrassFaded_86
+        BeGrassFaded_87
+        BeGrassFaded_88
+        BeGrassFaded_89
+        BeGrassFaded_90
+        BeGrassFaded_91
+        BeGrassFaded_92
+        BeGrassFaded_93
+        BeGrassFaded_94
+        BeGrassFaded_95
+        BeGrassFaded_96
+        BeGrassFaded_97
+        BeGrassFaded_98
+        BeGrassFaded_99
+        BeGrassFaded_100
+        BeGrassFaded_101
+        BeGrassFaded_102
+        BeGrassFaded_103
+        BeGrassFaded_104
+        BeGrassFaded_105
+        BeGrassFaded_106
+        BeGrassFaded_107
+        BeGrassFaded_108
+        BeGrassFaded_109
+        BeGrassFaded_110
+        BeGrassFaded_111
+        BeGrassFaded_112
+        BeGrassFaded_113
+        BeGrassFaded_114
+        BeGrassFaded_115
+        BeGrassFaded_116
+        BeGrassFaded_117
+        BeGrassFaded_118
+        BeGrassFaded_119
+        BeGrassFaded_120
+        BeGrassFaded_121
+        BeGrassFaded_122
+        BeGrassFaded_123
+        BeGrassFaded_124
+        BeGrassFaded_125
+        BeGrassFaded_126
+        BeGrassFaded_127
+
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = BeSwampy
+    bitmap = 1
+    color = 105 125 150
+    tiles = [
+        
+        BeSwamp_0
+        BeSwamp_1
+        BeSwamp_2
+        BeSwamp_3
+        BeSwamp_4
+        BeSwamp_5
+        BeSwamp_6
+        BeSwamp_7
+        BeSwamp_8
+        BeSwamp_9
+        BeSwamp_10
+        BeSwamp_11
+        BeSwamp_12
+        BeSwamp_13
+        BeSwamp_14
+        BeSwamp_15
+        BeSwamp_16
+        BeSwamp_17
+        BeSwamp_18
+        BeSwamp_19
+        BeSwamp_20
+        BeSwamp_21
+        BeSwamp_22
+        BeSwamp_23
+        BeSwamp_24
+        BeSwamp_25
+        BeSwamp_26
+        BeSwamp_27
+        BeSwamp_28
+        BeSwamp_29
+        BeSwamp_30
+        BeSwamp_31
+        BeSwamp_32
+        BeSwamp_33
+        BeSwamp_34
+        BeSwamp_35
+        BeSwamp_36
+        BeSwamp_37
+        BeSwamp_38
+        BeSwamp_39
+        BeSwamp_40
+        BeSwamp_41
+        BeSwamp_42
+        BeSwamp_43
+        BeSwamp_44
+        BeSwamp_45
+        BeSwamp_46
+        BeSwamp_47
+        BeSwamp_48
+        BeSwamp_49
+        BeSwamp_50
+        BeSwamp_51
+        BeSwamp_52
+        BeSwamp_53
+        BeSwamp_54
+        BeSwamp_55
+        BeSwamp_56
+        BeSwamp_57
+        BeSwamp_58
+        BeSwamp_59
+        BeSwamp_60
+        BeSwamp_61
+        BeSwamp_62
+        BeSwamp_63
+        BeSwamp_64
+        BeSwamp_65
+        BeSwamp_66
+        BeSwamp_67
+        BeSwamp_68
+        BeSwamp_69
+        BeSwamp_70
+        BeSwamp_71
+        BeSwamp_72
+        BeSwamp_73
+        BeSwamp_74
+        BeSwamp_75
+        BeSwamp_76
+        BeSwamp_77
+        BeSwamp_78
+        BeSwamp_79
+        BeSwamp_80
+        BeSwamp_81
+        BeSwamp_82
+        BeSwamp_83
+        BeSwamp_84
+        BeSwamp_85
+        BeSwamp_86
+        BeSwamp_87
+        BeSwamp_88
+        BeSwamp_89
+        BeSwamp_90
+        BeSwamp_91
+        BeSwamp_92
+        BeSwamp_93
+        BeSwamp_94
+        BeSwamp_95
+        BeSwamp_96
+        BeSwamp_97
+        BeSwamp_98
+        BeSwamp_99
+        BeSwamp_100
+        BeSwamp_101
+        BeSwamp_102
+        BeSwamp_103
+        BeSwamp_104
+        BeSwamp_105
+        BeSwamp_106
+        BeSwamp_107
+        BeSwamp_108
+        BeSwamp_109
+        BeSwamp_110
+        BeSwamp_111
+        BeSwamp_112
+        BeSwamp_113
+        BeSwamp_114
+        BeSwamp_115
+        BeSwamp_116
+        BeSwamp_117
+        BeSwamp_118
+        BeSwamp_119
+        BeSwamp_120
+        BeSwamp_121
+        BeSwamp_122
+        BeSwamp_123
+        BeSwamp_124
+        BeSwamp_125
+        BeSwamp_126
+        BeSwamp_127
+        BeSwamp2_0
+        BeSwamp2_1
+        BeSwamp2_2
+        BeSwamp2_3
+        BeSwamp2_4
+        BeSwamp2_5
+        BeSwamp2_6
+        BeSwamp2_7
+        BeSwamp2_8
+        BeSwamp2_9
+        BeSwamp2_10
+        BeSwamp2_11
+        BeSwamp2_12
+        BeSwamp2_13
+        BeSwamp2_14
+        BeSwamp2_15
+        BeSwamp2_16
+        BeSwamp2_17
+        BeSwamp2_18
+        BeSwamp2_19
+        BeSwamp2_20
+        BeSwamp2_21
+        BeSwamp2_22
+        BeSwamp2_23
+        BeSwamp2_24
+        BeSwamp2_25
+        BeSwamp2_26
+        BeSwamp2_27
+        BeSwamp2_28
+        BeSwamp2_29
+        BeSwamp2_30
+        BeSwamp2_31
+        BeSwamp2_32
+        BeSwamp2_33
+        BeSwamp2_34
+        BeSwamp2_35
+        BeSwamp2_36
+        BeSwamp2_37
+        BeSwamp2_38
+        BeSwamp2_39
+        BeSwamp2_40
+        BeSwamp2_41
+        BeSwamp2_42
+        BeSwamp2_43
+        BeSwamp2_44
+        BeSwamp2_45
+        BeSwamp2_46
+        BeSwamp2_47
+        BeSwamp2_48
+        BeSwamp2_49
+        BeSwamp2_50
+        BeSwamp2_51
+        BeSwamp2_52
+        BeSwamp2_53
+        BeSwamp2_54
+        BeSwamp2_55
+        BeSwamp2_56
+        BeSwamp2_57
+        BeSwamp2_58
+        BeSwamp2_59
+        BeSwamp2_60
+        BeSwamp2_61
+        BeSwamp2_62
+        BeSwamp2_63
+        BeSwamp2_64
+        BeSwamp2_65
+        BeSwamp2_66
+        BeSwamp2_67
+        BeSwamp2_68
+        BeSwamp2_69
+        BeSwamp2_70
+        BeSwamp2_71
+        BeSwamp2_72
+        BeSwamp2_73
+        BeSwamp2_74
+        BeSwamp2_75
+        BeSwamp2_76
+        BeSwamp2_77
+        BeSwamp2_78
+        BeSwamp2_79
+        BeSwamp2_80
+        BeSwamp2_81
+        BeSwamp2_82
+        BeSwamp2_83
+        BeSwamp2_84
+        BeSwamp2_85
+        BeSwamp2_86
+        BeSwamp2_87
+        BeSwamp2_88
+        BeSwamp2_89
+        BeSwamp2_90
+        BeSwamp2_91
+        BeSwamp2_92
+        BeSwamp2_93
+        BeSwamp2_94
+        BeSwamp2_95
+        BeSwamp2_96
+        BeSwamp2_97
+        BeSwamp2_98
+        BeSwamp2_99
+        BeSwamp2_100
+        BeSwamp2_101
+        BeSwamp2_102
+        BeSwamp2_103
+        BeSwamp2_104
+        BeSwamp2_105
+        BeSwamp2_106
+        BeSwamp2_107
+        BeSwamp2_108
+        BeSwamp2_109
+        BeSwamp2_110
+        BeSwamp2_111
+        BeSwamp2_112
+        BeSwamp2_113
+        BeSwamp2_114
+        BeSwamp2_115
+        BeSwamp2_116
+        BeSwamp2_117
+        BeSwamp2_118
+        BeSwamp2_119
+        BeSwamp2_120
+        BeSwamp2_121
+        BeSwamp2_122
+        BeSwamp2_123
+        BeSwamp2_124
+        BeSwamp2_125
+        BeSwamp2_126
+        BeSwamp2_127
+        BeGrass_0
+        BeGrass_1
+        BeGrass_2
+        BeGrass_3
+        BeGrass_4
+        BeGrass_5
+        BeGrass_6
+        BeGrass_7
+        BeGrass_8
+        BeGrass_9
+        BeGrass_10
+        BeGrass_11
+        BeGrass_12
+        BeGrass_13
+        BeGrass_14
+        BeGrass_15
+        BeGrass_16
+        BeGrass_17
+        BeGrass_18
+        BeGrass_19
+        BeGrass_20
+        BeGrass_21
+        BeGrass_22
+        BeGrass_23
+        BeGrass_24
+        BeGrass_25
+        BeGrass_26
+        BeGrass_27
+        BeGrass_28
+        BeGrass_29
+        BeGrass_30
+        BeGrass_31
+        BeGrass_32
+        BeGrass_33
+        BeGrass_34
+        BeGrass_35
+        BeGrass_36
+        BeGrass_37
+        BeGrass_38
+        BeGrass_39
+        BeGrass_40
+        BeGrass_41
+        BeGrass_42
+        BeGrass_43
+        BeGrass_44
+        BeGrass_45
+        BeGrass_46
+        BeGrass_47
+        BeGrass_48
+        BeGrass_49
+        BeGrass_50
+        BeGrass_51
+        BeGrass_52
+        BeGrass_53
+        BeGrass_54
+        BeGrass_55
+        BeGrass_56
+        BeGrass_57
+        BeGrass_58
+        BeGrass_59
+        BeGrass_60
+        BeGrass_61
+        BeGrass_62
+        BeGrass_63
+        BeGrass_64
+        BeGrass_65
+        BeGrass_66
+        BeGrass_67
+        BeGrass_68
+        BeGrass_69
+        BeGrass_70
+        BeGrass_71
+        BeGrass_72
+        BeGrass_73
+        BeGrass_74
+        BeGrass_75
+        BeGrass_76
+        BeGrass_77
+        BeGrass_78
+        BeGrass_79
+        BeGrass_80
+        BeGrass_81
+        BeGrass_82
+        BeGrass_83
+        BeGrass_84
+        BeGrass_85
+        BeGrass_86
+        BeGrass_87
+        BeGrass_88
+        BeGrass_89
+        BeGrass_90
+        BeGrass_91
+        BeGrass_92
+        BeGrass_93
+        BeGrass_94
+        BeGrass_95
+        BeGrass_96
+        BeGrass_97
+        BeGrass_98
+        BeGrass_99
+        BeGrass_100
+        BeGrass_101
+        BeGrass_102
+        BeGrass_103
+        BeGrassFaded_0
+        BeGrassFaded_1
+        BeGrassFaded_2
+        BeGrassFaded_3
+        BeGrassFaded_4
+        BeGrassFaded_5
+        BeGrassFaded_6
+        BeGrassFaded_7
+        BeGrassFaded_8
+        BeGrassFaded_9
+        BeGrassFaded_10
+        BeGrassFaded_11
+        BeGrassFaded_12
+        BeGrassFaded_13
+        BeGrassFaded_14
+        BeGrassFaded_15
+        BeGrassFaded_16
+        BeGrassFaded_17
+        BeGrassFaded_18
+        BeGrassFaded_19
+        BeGrassFaded_20
+        BeGrassFaded_21
+        BeGrassFaded_22
+        BeGrassFaded_23
+        BeGrassFaded_24
+        BeGrassFaded_25
+        BeGrassFaded_26
+        BeGrassFaded_27
+        BeGrassFaded_28
+        BeGrassFaded_29
+        BeGrassFaded_30
+        BeGrassFaded_31
+        BeGrassFaded_32
+        BeGrassFaded_33
+        BeGrassFaded_34
+        BeGrassFaded_35
+        BeGrassFaded_36
+        BeGrassFaded_37
+        BeGrassFaded_38
+        BeGrassFaded_39
+        BeGrassFaded_40
+        BeGrassFaded_41
+        BeGrassFaded_42
+        BeGrassFaded_43
+        BeGrassFaded_44
+        BeGrassFaded_45
+        BeGrassFaded_46
+        BeGrassFaded_47
+        BeGrassFaded_48
+        BeGrassFaded_49
+        BeGrassFaded_50
+        BeGrassFaded_51
+        BeGrassFaded_52
+        BeGrassFaded_53
+        BeGrassFaded_54
+        BeGrassFaded_55
+        BeGrassFaded_56
+        BeGrassFaded_57
+        BeGrassFaded_58
+        BeGrassFaded_59
+        BeGrassFaded_60
+        BeGrassFaded_61
+        BeGrassFaded_62
+        BeGrassFaded_63
+        BeGrassFaded_64
+        BeGrassFaded_65
+        BeGrassFaded_66
+        BeGrassFaded_67
+        BeGrassFaded_68
+        BeGrassFaded_69
+        BeGrassFaded_70
+        BeGrassFaded_71
+        BeGrassFaded_72
+        BeGrassFaded_73
+        BeGrassFaded_74
+        BeGrassFaded_75
+        BeGrassFaded_76
+        BeGrassFaded_77
+        BeGrassFaded_78
+        BeGrassFaded_79
+        BeGrassFaded_80
+        BeGrassFaded_81
+        BeGrassFaded_82
+        BeGrassFaded_83
+        BeGrassFaded_84
+        BeGrassFaded_85
+        BeGrassFaded_86
+        BeGrassFaded_87
+        BeGrassFaded_88
+        BeGrassFaded_89
+        BeGrassFaded_90
+        BeGrassFaded_91
+        BeGrassFaded_92
+        BeGrassFaded_93
+        BeGrassFaded_94
+        BeGrassFaded_95
+        BeGrassFaded_96
+        BeGrassFaded_97
+        BeGrassFaded_98
+        BeGrassFaded_99
+        BeGrassFaded_100
+        BeGrassFaded_101
+        BeGrassFaded_102
+        BeGrassFaded_103
+        BeGrassFaded_104
+        BeGrassFaded_105
+        BeGrassFaded_106
+        BeGrassFaded_107
+        BeGrassFaded_108
+        BeGrassFaded_109
+        BeGrassFaded_110
+        BeGrassFaded_111
+        BeGrassFaded_112
+        BeGrassFaded_113
+        BeGrassFaded_114
+        BeGrassFaded_115
+        BeGrassFaded_116
+        BeGrassFaded_117
+        BeGrassFaded_118
+        BeGrassFaded_119
+        BeGrassFaded_120
+        BeGrassFaded_121
+        BeGrassFaded_122
+        BeGrassFaded_123
+        BeGrassFaded_124
+        BeGrassFaded_125
+        BeGrassFaded_126
+        BeGrassFaded_127
+
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = BeWet
+    bitmap = 1
+    color = 25 125 190
+    tiles = [
+        
+    
+        BeSwamp_45
+        BeSwamp_46
+        BeSwamp_47
+        BeSwamp_48
+        BeSwamp_49
+        BeSwamp_50
+        BeSwamp_51
+        BeSwamp_52
+        BeSwamp_53
+        BeSwamp_54
+        BeSwamp_55
+        BeSwamp_56
+        BeSwamp_57
+        BeSwamp_58
+        BeSwamp_59
+        BeSwamp_60
+        BeSwamp_61
+        BeSwamp_62
+        BeSwamp_63
+        BeSwamp_64
+        BeSwamp_65
+        BeSwamp_66
+        BeSwamp_67
+        BeSwamp_68
+        BeSwamp_69
+        BeSwamp_70
+        BeSwamp_71
+        BeSwamp_72
+        BeSwamp_73
+        BeSwamp_74
+        BeSwamp_75
+        BeSwamp_76
+        BeSwamp_77
+        BeSwamp_78
+        BeSwamp_79
+        BeSwamp_80
+        BeSwamp_81
+        BeSwamp_82
+        BeSwamp_83
+        BeSwamp_84
+        BeSwamp_85
+        BeSwamp_86
+        BeSwamp_87
+        BeSwamp_88
+        BeSwamp_89
+        BeSwamp_90
+        BeSwamp_91
+        BeSwamp_92
+        BeSwamp_93
+        BeSwamp_94
+        BeSwamp_95
+        BeSwamp_96
+        BeSwamp_97
+        BeSwamp_98
+        BeSwamp_99
+        BeSwamp_100
+        BeSwamp_101
+        BeSwamp_102
+        BeSwamp_103
+        
+        BeSwamp_116
+        BeSwamp_117
+        BeSwamp_118
+        BeSwamp_119
+        BeSwamp_120
+        BeSwamp_121
+        BeSwamp_122
+        BeSwamp_123
+        BeSwamp_124
+        BeSwamp_125
+        BeSwamp_126
+        BeSwamp_127
+
+        BeSwamp2_0
+        BeSwamp2_1
+        BeSwamp2_2
+        BeSwamp2_3
+        BeSwamp2_4
+        BeSwamp2_5
+        BeSwamp2_6
+        BeSwamp2_7
+        BeSwamp2_8
+        BeSwamp2_9
+        BeSwamp2_10
+        BeSwamp2_11
+        BeSwamp2_12
+        BeSwamp2_13
+        BeSwamp2_14
+        BeSwamp2_15
+
+    ]
+    layer = 0_Vegetation
+}
+rule
+{
+    label = Palms
+    bitmap = 1
+    color = 28 28 200
+    tiles = [
+        BeCacti_40
+	BeCacti_41
+	BeCacti_42
+	BeCacti_43
+    ]
+    layer = 0_Vegetation
+}
